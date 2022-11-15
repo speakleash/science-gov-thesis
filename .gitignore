@@ -130,4 +130,6 @@ dmypy.json
 
 #Misc
 backup/
-
+*.manifest
+*.jsonl.zst
+.DS_Store
